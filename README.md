@@ -11,3 +11,6 @@ Assignments & algorithms  (in C++) in Algorithms Courses of Stanford University 
 [. Week_3](https://github.com/shehab-ashraf/Algorithms-stanford-course-/tree/master/course1/Week_3)
 
 
+[. Week_4](https://github.com/shehab-ashraf/Algorithms-stanford-course-/tree/master/course1/Week_4)
+
+
